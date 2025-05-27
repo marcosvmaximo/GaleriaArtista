@@ -2,6 +2,14 @@
 
 Aplicativo iOS em SwiftUI que exibe uma galeria de obras de arte de artistas de Curitiba usando LazyVGrid e AsyncImage.
 
+## Video youtube
+<a href="https://youtube.com/shorts/1jv0dlQaQy0?feature=share">clique aqui</a>
+
+## Participantes
+- Marcos Vinicius
+- Vinicius Viana
+- Vinicius da Costas
+
 ## Funcionalidades
 
 - Grade adaptativa de cards com tamanho fixo
